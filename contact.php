@@ -87,6 +87,7 @@ return true;
 <tr><td>Name: <input type="text" name="first_name"></td></tr>
 <tr><td>Email: <input type="text" name="email"></td></tr>
 <tr><td>Phone: <input type="text" name="phone"></td></tr>
+<tr><td>Mobile: <input type="text" name="mphone"></td></tr>
 <tr><td><input type="submit" name="submit">
 
   <!--  <input  type="submit" value="Register" name="Register"> -->
