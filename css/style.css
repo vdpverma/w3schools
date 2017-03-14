@@ -1,0 +1,26 @@
+
+		#header{
+		color: black;
+	    padding: 3em;
+	    background:#f1f1f1;
+	    text-align: left;
+		
+		}
+		#menu{
+			
+		}
+		#links { 
+		width:200px; 
+		height:450px; 
+		background:#f1f1f1; 
+		float:left; 
+		}
+		footer {
+		padding: 3em;
+		color: white;
+		background-color: black;
+		clear: left;
+		text-align: center;
+		}
+		
+		
